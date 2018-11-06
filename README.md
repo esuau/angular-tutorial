@@ -1,6 +1,18 @@
-# AngularTutorial
+# Angular Tutorial
+
+A simple demo app to learn Angular step by step.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
+
+## Prerequisites
+
+Download and instlal [Node.js](https://nodejs.org/en/download/) on your machine.
+
+Run `npm install -g @angular/cli` to install [Angular CLI](https://cli.angular.io/).
+
+Run `git clone https://github.com/esuau/angular-tutorial.git` to clone this repository.
+
+Run `npm install` to install the project dependencies.
 
 ## Development server
 
